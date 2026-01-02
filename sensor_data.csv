@@ -1,0 +1,5 @@
+sensor_id,raw_value
+Temp_01,1024
+Temp_02,4000
+Batt_01,3500
+Aux_01,500

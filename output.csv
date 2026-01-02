@@ -1,0 +1,5 @@
+sensor_id,voltage,status
+Temp_01,0.82,SAFE
+Temp_02,3.22,WARNING
+Batt_01,2.82,WARNING
+Aux_01,0.4,SAFE
